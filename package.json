@@ -1,6 +1,6 @@
 {
   "name": "hexo-runcode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "run html js css in hexo",
   "main": "index.js",
   "scripts": {

@@ -12,13 +12,13 @@ const script = fs.readFileSync(path.resolve(__dirname, "./assets/runcode.js"), {
 hexo.extend.injector.register(
     "head_end", () => {
         return `<style type="text/css">${style}</style>`;
-    }, "default"
+    }, "post"
 );
 
 hexo.extend.injector.register(
     "head_end",() => {
         return `<script type="text/javascript">${script}</script>`;
-    }, "default"
+    }, "post"
 );
 
 function runcodeRender(args, content) {

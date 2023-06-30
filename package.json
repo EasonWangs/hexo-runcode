@@ -1,0 +1,24 @@
+{
+  "name": "hexo-runcode",
+  "version": "0.1.0",
+  "description": "run html js css in hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neoxone2/hexo-runcode.git"
+  },
+  "keywords": [
+    "hexo",
+    "runcode",
+    "tag"
+  ],
+  "author": "neo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neoxone2/hexo-runcode/issues"
+  },
+  "homepage": "https://github.com/neoxone2/hexo-runcode#readme"
+}
